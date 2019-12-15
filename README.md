@@ -1,5 +1,5 @@
 # Message-Display
- Remote Message Display which can be updated by the user from a web interface.
+ Remote Message Display which can be updated by the user from a web interface. See wiki for more specific info!
 
 ![](https://github.com/ViktorJager/Message-Display/blob/master/resources/Message%20display%20dark.jpg)
 
