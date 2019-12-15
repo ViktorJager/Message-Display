@@ -8,12 +8,18 @@
 ### Block Diagram of early concept model
 ![Block Diagram of early concept model](https://github.com/ViktorJager/Message-Display/blob/master/resources/BlockDiagram.png)
 
-### Schematic of PCB
+### Schematic
+![](https://github.com/ViktorJager/Message-Display/blob/master/resources/Schematic.png)
+
+### PCB
 ![](https://github.com/ViktorJager/Message-Display/blob/master/resources/pcb.png)
 
 ### 3D model of PCB
 ![](https://github.com/ViktorJager/Message-Display/blob/master/resources/PCB_3D_FRONT.JPG)
 ![](https://github.com/ViktorJager/Message-Display/blob/master/resources/PCB_3D_BACK.JPG)
+
+### List of components
+![](https://github.com/ViktorJager/Message-Display/blob/master/resources/Komponentlista_SDS.png)
 
 ### Unsoldered PCB's
 ![](https://github.com/ViktorJager/Message-Display/blob/master/resources/Message%20display%20unsoldered.jpg)
@@ -26,6 +32,8 @@
 
 ### Message Display with backlight
 ![](https://github.com/ViktorJager/Message-Display/blob/master/resources/Message%20display%20dark.jpg)
+
+
 
 
 
